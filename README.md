@@ -1,6 +1,6 @@
 # Smart Suction Cup Library
 
-This repository contains the `SSC_MPRLS_Library` Arduino library.  
+This repository contains the customized `SSC_MPRLS_Library` Arduino library. You should copy this library into your Arduino libraries folder to use this code.
 Follow the instructions below to install it into your Arduino IDE.
 
 ## 📥 Installation
@@ -31,5 +31,5 @@ Sketch → Include Library → JP_MPRLS_Library
 
 You can now include it in your sketches with:
 ```bash
-#include <JP_MPRLS_Library.h>
+#include <SSC_MPRLS_Library.h>
 ```
