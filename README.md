@@ -14,8 +14,8 @@ git clone https://github.com/Jungpyo-L/open_hardware_smart_suction_cup.git
 ### 2. Copy the library into your Arduino libraries folder
 
 🪟 Windows (PowerShell)
-```bash
-Copy-Item -Recurse -Force "repo-name\Arduino_library\JP_MPRLS_Library" "$env:USERPROFILE\Documents\Arduino\libraries\JP_MPRLS_Library"
+```powershell
+Copy-Item -Recurse -Force "open_hardware_smart_suction_cup\Arduino_library\SSC_MPRLS_Library" "$env:USERPROFILE\Documents\Arduino\libraries\SSC_MPRLS_Library"
 ```
 
 🍎 macOS / 🐧 Linux (bash)
@@ -30,7 +30,7 @@ Sketch → Include Library → JP_MPRLS_Library
 ```
 
 You can now include it in your sketches with:
-```bash
+```cpp
 #include <SSC_MPRLS_Library.h>
 ```
 
