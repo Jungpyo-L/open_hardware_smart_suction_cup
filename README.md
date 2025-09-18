@@ -51,3 +51,10 @@ This library has been tested with the following hardware components:
 - Ensure all devices and ports on **MPRLS** share a common **GND** and use the appropriate **3.3V power supply**.  
 
 📌 For detailed wiring, please refer to the datasheets of each component or Adafruit’s product guides.
+
+## 👤 Author
+
+- **Name:** Jungpyo Lee  
+- **Email:** jungpyolee@berkeley.edu  
+- **Affiliation:** Embodied Dexterity Group, UC Berkeley  
+- **GitHub:** [jungpyolee](https://github.com/Jungpyo-L)  
